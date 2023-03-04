@@ -1,0 +1,12 @@
+{
+    "params":{
+        "local_server": "True",
+        "local_uri":"sqlite3:///./myblogdb.db",
+        "prod_uri":"sqlite3:///./myblogdb.db",
+        "blog_name": "Yukti's Blog",
+        "tagline":"A Blog application using Flask, Bootstrap - HTML, CSS and Javascript, Jinja2, SQLite3, SQLAlchemy",
+        "admin_username":"yukti",
+        "admin_password":"123456",
+        "no_of_posts":"2"
+    }
+}
